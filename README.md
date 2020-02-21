@@ -7,10 +7,13 @@
 My WT profile can be found in [profiles.json](https://github.com/charlyjose/wt/blob/master/profiles.json).
 
 ## Open Windows Terminal here
-### Sneak Peek
-<img src="https://github.com/charlyjose/wt/raw/master/menu.gif">
 
+#### Setup:
+<img src="https://github.com/charlyjose/wt/raw/master/registry.gif">
 Run the [wt.reg](https://github.com/charlyjose/wt/blob/master/wt.reg) to add "Open Windows Terminal here" option to your context menu.
+
+#### Context Menu
+<img src="https://github.com/charlyjose/wt/raw/master/menu.gif">
 
 ### Note
 #### Either of the two options work
