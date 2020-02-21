@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal]
+@="Open Windows Terminal here"
+; STANDARD ICON
+; "Icon"="C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_0.9.433.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe,0"
+; Custom ICON IF YOU NEED
+; "Icon"="%USERPROFILE%\\AppData\\Local\\terminal\\wt_32.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal\command]
+@="\"C:\\Users\\cherry\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe\""
