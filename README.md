@@ -15,8 +15,8 @@ Run the [wt.reg](https://github.com/charlyjose/wt/blob/master/wt.reg) to add "Op
 ### Note
 #### Either of the two options work
 
-* "."
-* "%__CD__%"
+* "`.`"
+* "%`__`CD`__` %"
 
 In [profiles.json](https://github.com/charlyjose/wt/blob/master/profiles.json)
 
