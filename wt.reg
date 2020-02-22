@@ -9,3 +9,8 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal\command]
 @="\"C:\\Users\\cherry\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminalAdmin]
+@="Open Windows Terminal as Admin"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminalAdmin\command]
+@="Powershell -WindowStyle Hidden -Command \"& { Start-Process \"wt.exe\" -Verb RunAs}\""
